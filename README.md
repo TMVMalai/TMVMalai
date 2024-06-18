@@ -32,6 +32,8 @@ Created a scalable and efficient test automation framework using Playwright. The
 ) 🔗
 - [GitHub](https://github.com/TMVMalai) 💻
 - [Email](tmvthirumalai@gmail.com) 📧
+
+- I am always open to new opportunities and collaborations. Let's connect and build something amazing together!✨
 <!---
 TMVMalai/TMVMalai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

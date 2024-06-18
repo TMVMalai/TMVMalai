@@ -26,6 +26,20 @@ Developed a comprehensive test suite for web application testing using Selenium 
 ### 2. [Playwright Testing Framework](https://github.com/TMVMalai/PlayWrightAutomation)
 Created a scalable and efficient test automation framework using Playwright. The framework supports parallel test execution, test reporting, and integration with CI/CD pipelines.
 
+## Experience
+![Tekion](https://img.shields.io/badge/Tekion%20Corp-0078D7?style=flat-square&logo=office&logoColor=white) 
+- **Associate Automation QA Engineer ** *(June 2022 - Sep 2023)*
+
+  - Played a pivotal role in the development and enhancement of the organization’s internal tool, the Support Portal, a centralized platform for both internal teams and customers to create and manage tickets for various issues.
+
+  - Actively contributed to the creation and execution of comprehensive test plans, including crafting detailed test cases.
+
+  - Developed automated test scripts using Selenium and Java, improving test coverage and reducing manual testing effort.
+
+  - Implemented CI/CD pipelines using Jenkins, ensuring smooth and continuous integration and deployment.
+
+  - Collaborated with development teams to identify and fix defects early in the development cycle, enhancing the overall quality of the product.
+
 ## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/thirumalaivasan-perumal

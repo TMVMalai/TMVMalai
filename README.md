@@ -14,10 +14,10 @@ I am a passionate QA Engineer with a strong background in automation testing. My
 
 ## Projects
 
-### 1. [Automated Web Testing with Selenium](https://github.com/yourusername/selenium-automation)
+### 1. [Automated Web Testing with Selenium](https://github.com/TMVMalai/e-CommerceProject)
 Developed a comprehensive test suite for web application testing using Selenium and Java. The project includes various test cases for UI testing, form validation, and cross-browser testing.
 
-### 2. [Playwright Testing Framework](https://github.com/yourusername/playwright-framework)
+### 2. [Playwright Testing Framework](https://github.com/TMVMalai/PlayWrightAutomation)
 Created a scalable and efficient test automation framework using Playwright. The framework supports parallel test execution, test reporting, and integration with CI/CD pipelines.
 <!---
 TMVMalai/TMVMalai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

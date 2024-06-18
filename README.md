@@ -4,7 +4,7 @@
 
 I am a passionate QA Engineer 🧪 with a strong background in automation testing. My journey in software testing has equipped me with the skills to ensure the highest quality in software products. I specialize in using Java, Selenium, and Playwright for creating robust and scalable test automation frameworks.
 
-## Skills
+## Skills 
 
 - **Languages**: Java ☕
 - **Testing Frameworks**: Selenium 🕷️, Playwright 🎭

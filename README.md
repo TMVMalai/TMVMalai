@@ -8,11 +8,14 @@ I am a passionate QA Engineer 🧪 with a strong background in automation testin
 
 - **Languages**: Java ☕
 - **Testing Frameworks**: Selenium 🕷️, Playwright 🎭
-- **Other Tools**: - ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) 
+- **Other Tools**:
+  - ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) 
   - ![TestNG](https://img.shields.io/badge/TestNG-FF6D00?style=for-the-badge&logo=TestNG&logoColor=white) 
   - ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) 
   - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- **CI/CD**: Jenkins, GitHub Actions 🚀
+- **CI/CD**:
+  - ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) 
+  - ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 - **Development Practices**: Agile, Scrum, Test-Driven Development (TDD), Behavior-Driven Development (BDD)
 
 ## Projects

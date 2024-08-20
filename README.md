@@ -39,6 +39,7 @@ Created a scalable and efficient test automation framework using Playwright. The
   - Implemented CI/CD pipelines using Jenkins, ensuring smooth and continuous integration and deployment.
 
   - Collaborated with development teams to identify and fix defects early in the development cycle, enhancing the overall quality of the product.
+    
  
 ![Botminds.ai](https://img.shields.io/badge/Botminds.ai%20-0078D7?style=flat-square&logo=office&logoColor=white)  
 - QA Engineer (Sep 2023 - Present)

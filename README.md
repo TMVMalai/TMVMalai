@@ -42,7 +42,7 @@ Created a scalable and efficient test automation framework using Playwright. The
     
  
 ![Botminds.ai](https://img.shields.io/badge/Botminds.ai%20-0078D7?style=flat-square&logo=office&logoColor=white)  
-- QA Engineer (Sep 2023 - Present)
+- QA Engineer (Jun 2024 - Present)
 
   - Lead the development and implementation of automation frameworks, enhancing the efficiency and reliability of the testing process.
     
